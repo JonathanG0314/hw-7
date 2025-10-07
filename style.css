@@ -14,7 +14,7 @@ h1 {
  }
 
 img {
-    width: 100vw:
+    width: 100vw;
     height: auto;
  }
 
@@ -48,5 +48,6 @@ a:hover {
 a:active {
     color: orange;
  }
+
 
 
