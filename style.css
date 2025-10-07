@@ -3,13 +3,28 @@
     font-size: 16px;
     margin: 0;
     padding: 0;
-  }
+ }
 
 h1 {
     color: blue:
-    }
+ }
 
 img {
     width: 100vw:
     height: auto;
-    }
+ }
+
+.list {
+    background-color: darkslateblue;
+ }
+
+.fact {
+    color: white;
+ }
+.fun {
+    font-style: italic;
+ }
+
+ #three {
+     text-decoration: underline;
+ }
